@@ -1,5 +1,3 @@
-package codingInterviewCracking;
-
 /*
  * This code maintains connection between 2 people. It searches for
  * connections in a symmetric manner.
