@@ -63,7 +63,7 @@ public class SocialConnection<T> {
 	   visited.add(src);
 	   while (!q.isEmpty()) {
 		   T node = q.remove();
-		   if (node == y) return true;
+		   if (node.equals(y)) return true;
 		   ArrayList<T> arr = hm.get(node);
 		   for (T i:arr) {
 			   if (i.equals(y))
