@@ -1,4 +1,4 @@
-/*
+/* Author: Manikandan Ramalingam
  * This code deals with problems involving assembly lines or build order
  * where activity 2 cannot start before activity 1 and activity 1 cannot 
  * start before activity 0 and so on. So, given an activity and
