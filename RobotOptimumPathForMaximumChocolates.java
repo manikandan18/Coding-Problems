@@ -1,5 +1,3 @@
-package codingInterviewCracking;
-
 import java.util.Stack;
 
 /* This problem deals with robot collecting maximum number of chocolates.
