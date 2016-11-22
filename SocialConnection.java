@@ -1,4 +1,4 @@
-/*
+/* Author: Manikandan Ramalingam
  * This code maintains connection between 2 people. It searches for
  * connections in a symmetric manner.
  * The connections are maintained much like Facebook or LinkedIn.
