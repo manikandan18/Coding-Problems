@@ -1,6 +1,7 @@
 import java.util.Stack;
 
-/* This problem deals with robot collecting maximum number of chocolates.
+/* Author:Manikandan Ramalingam
+ * This problem deals with robot collecting maximum number of chocolates.
  * There is a 2-dimensional matrix with each row and column element has
  * number of chocolates to have. A robot has to pass through this matrix
  * from top left corner to bottom right corner in an optimum path so that
